@@ -16,10 +16,10 @@ On our website we offer a wide range of Source Codes free of charge!
 - 🌱 Language: English
   </p>
 <p align="center">
-- 👀 Interested in | Automating the manuel | Frontend | Backend
+- 👀 Creating Source Codes
   </p>
  <p align="center">
-- 🌱 I work with mainly Python 
+- 👷 I work with mainly Python 
 </p>
 
 
