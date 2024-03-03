@@ -5,11 +5,11 @@
 
 <h1 align="center">Website</h1>
 <p align="center">
-On our website we offer a wide range of Source Codes free of charge!/>
+On our website we offer a wide range of Source Codes free of charge!
 </p>
-
+<p align="center">
 - 👋 https:// [not finished yet]
-
+</p>
 align="center"
 __About Me__
 - 🌱 Language: English
