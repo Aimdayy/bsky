@@ -5,14 +5,11 @@
 
 - 👋 https://
 
-C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me at: (disc) sandwich.com for custom work or any inquiries.
-
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
-- 🌱 Language: English/French
+- 🌱 Language: English
 - 👀 Interested in | Automating the manuel | Frontend | Backend
-- 🌱 I work with Python | html/css | JavaScript | Go
+- 🌱 I work with mainly Python 
 
 
 
