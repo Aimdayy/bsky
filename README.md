@@ -2,7 +2,8 @@
 <!-- <p align="center"> <img src="c"  /> </p> -->
 
 ![Header](./header.png)
-align="center"
+
+<h1 align="center">Stats</h1>
 __website__
 - 👋 https:// [not finished yet]
 
