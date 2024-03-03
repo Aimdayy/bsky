@@ -10,12 +10,13 @@ On our website we offer a wide range of Source Codes free of charge!
 <p align="center">
 - 👋 https:// [not finished yet]
 </p>
-align="center"
-__About Me__
+
+<h1 align="center">About Me</h1>
+<p align="center">
 - 🌱 Language: English
 - 👀 Interested in | Automating the manuel | Frontend | Backend
 - 🌱 I work with mainly Python 
-
+</p>
 
 
 <h1 align="center">Stats</h1>
