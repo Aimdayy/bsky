@@ -1,7 +1,7 @@
 
 <!-- <p align="center"> <img src="c"  /> </p> -->
 
-![Header](./hazza_gitBanner.png)
+![Header](./footer.png)
 
 - 👋 https://
 
