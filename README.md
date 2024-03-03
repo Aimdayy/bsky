@@ -14,7 +14,11 @@ On our website we offer a wide range of Source Codes free of charge!
 <h1 align="center">About Me</h1>
 <p align="center">
 - 🌱 Language: English
+  </p>
+<p align="center">
 - 👀 Interested in | Automating the manuel | Frontend | Backend
+  </p>
+ <p align="center">
 - 🌱 I work with mainly Python 
 </p>
 
