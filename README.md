@@ -2,11 +2,11 @@
 <!-- <p align="center"> <img src="c"  /> </p> -->
 
 ![Header](./header.png)
+__website__
+- 👋 https:// [not finished yet]
 
-- 👋 https://
 
-
-A͟b͟o͟u͟t͟ ͟m͟e͟
+__About Me__
 - 🌱 Language: English
 - 👀 Interested in | Automating the manuel | Frontend | Backend
 - 🌱 I work with mainly Python 
